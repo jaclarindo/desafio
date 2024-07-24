@@ -2,20 +2,20 @@
 
 ## Descrição do Projeto
 
-Este projeto consiste no desenvolvimento de uma API back-end utilizando .NET Core 6.0, que implementa um CRUD (Create, Read, Update, Delete) de pedidos. A base de dados utilizada é o SQL Server. Como um complemento opcional, há a possibilidade de desenvolvimento de um projeto front-end para integração com a API.
+Este projeto consiste no desenvolvimento de uma API back-end utilizando .NET Core 6.0, que implementa um CRUD (Create, Read, Update, Delete) de pedidos. A base de dados utilizada é o SQL Server.
 
 ## Objetivos
 
 - Desenvolver uma API back-end para gerenciamento de pedidos.
 - Implementar operações de CRUD para pedidos.
 - Utilizar SQL Server como base de dados.
-- Opcional: Desenvolver um front-end para integração com a API.
+- Aplicar DDD usando o padrão CQRS com Mediator.
 
 ## Tecnologias Utilizadas
 
 - .NET Core 6.0
 - SQL Server
-- [Tecnologias de front-end] (se aplicável)
+- Docker 
 
 ## Estrutura do Projeto
 
