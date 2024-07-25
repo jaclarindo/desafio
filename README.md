@@ -43,4 +43,4 @@ Para manipulação dos dados, utiliza-se o Entity Framework com o padrão Unit o
 1. **Clone o repositório:**
 
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/jaclarindo/desafio.git
